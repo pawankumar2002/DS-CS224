@@ -5,9 +5,11 @@ This repo is created for our Data Science CS224 project
 
 
 #### Our Team
-1. Pawan Kumar
-2. Vishal Yadav
-3. Gaurav 
-4. Aaryan Dhakad
-5. Sanju Phogat
+|Name|Roll No.|
+|-|-|
+|Pawan Kumar|2001EE42|
+|Sanju Kumar|2001EE62|
+|Vishal Yadav|2001CB64|
+|Gaurav|2001CB22|
+|Aaryan Dhakad|2001CB01|
 
