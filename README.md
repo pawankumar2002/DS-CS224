@@ -12,4 +12,5 @@ This repo is created for our Data Science CS224 project
 |Vishal Yadav|2001CB64|
 |Gaurav|2001CB22|
 |Aaryan Dhakad|2001CB01|
+|Arijit Das|2001CB11|
 
