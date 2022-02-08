@@ -15,7 +15,50 @@ desc = {
 }
 
 
-name = "Maharashtra"
+L = ["Andhra Pradesh",
+     "Arunachal Pradesh",
+     "Assam",
+     "Bihar",
+     "Chhattisgarh",
+     "Goa",
+     "Gujarat",
+     "Haryana",
+     "Himachal Pradesh",
+     "Jharkhand",
+     "Karnataka",
+     "Kerala",
+     "Madhya Pradesh",
+     "Maharashtra",
+     "Manipur",
+     "Meghalaya",
+     "Mizoram",
+     "Nagaland",
+     "Odisha",
+     "Punjab",
+     "Rajasthan",
+     "Sikkim",
+     "Tamil Nadu",
+     "Telangana",
+     "Tripura",
+     "Uttar Pradesh",
+     "Uttarakhand",
+     "West Bengal",
+     "Andaman and Nicobar Islands",
+     "Chandigarh",
+     "Dadra and Nagar Haveli",
+     "Daman and Diu",
+     "Delhi",
+     "Jammu and Kashmir",
+     "Ladakh",
+     "Lakshadweep",
+     "Puducherry"]
+
+for i in range(1, len(L)+1):
+    print(i, L[i-1])
+
+n = int(input('Select State/UT : '))
+
+name = L[n-1]
 
 x = list()
 y = list()
