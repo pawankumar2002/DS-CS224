@@ -1,0 +1,40 @@
+SNO,Category,States_UT,poverty,malnutrition,literacy,drinking water,electricity,unemployment
+1,State,Andhra Pradesh,9.2,35.5,65.6,99.81125151,100,5.7
+2,State,Arunachal Pradesh,34.67,16,79.9,92.63657957,100,7.7
+3,State,Assam,31.98,29.4,84.9,74.72472158,100,7.1
+4,State,Bihar,33.74,38.7,64.7,96.28630888,100,10.6
+5,State,Chhattisgarh,39.93,40,74.1,99.59868138,99.67,2.6
+6,State,Goa,5.09,20.3,88.9,100,100,9.4
+7,State,Gujarat,16.63,34.2,80.7,100,100,3.4
+8,State,Haryana,11.16,28.8,77.3,99.71431711,100,9.8
+9,State,Himachal Pradesh,8.06,22.6,84.2,100,100,5.8
+10,State,Jharkhand,36.96,42.9,67.3,99.70510686,100,5.5
+11,State,Karnataka,20.91,32,75.7,100,100,3.9
+12,State,Kerala,7.05,18.7,94.6,99.35308848,100,10.4
+13,State,Madhya Pradesh,31.65,38.7,70.5,99.64891263,100,3.7
+14,State,Maharashtra,17.35,30.9,80.3,99.70219926,100,5.4
+15,State,Manipur,36.89,13,85.6,100,100,10.1
+16,State,Meghalaya,11.87,30,91.4,100,100,2.8
+17,State,Mizoram,20.4,11.3,98.5,100,100,7.3
+18,State,Nagaland,18.88,16.3,93.8,100,100,18.5
+19,State,Odisha,32.59,29.2,72.5,98.13119756,100,7.6
+20,State,Punjab,8.26,19.7,79.4,92.4089014,100,8
+21,State,Rajasthan,14.71,31.5,67.1,92.2759537,100,6.2
+22,State,Sikkim,8.19,11,86.2,100,100,3.3
+23,State,Tamil Nadu,11.28,23.5,80.7,99.39444338,100,7.2
+24,State,Telangana,Null,30.8,67.4,100,100,8.8
+25,State,Tripura,14.05,23.8,89.9,84.84415213,100,10.5
+26,State,Uttar Pradesh,29.43,36.8,68.2,99.62768688,100,6.2
+27,State,Uttarakhand,11.26,18.7,79,99.26236621,100,9.5
+28,State,West Bengal,19.98,30.9,79,95.47820993,100,4.1
+29,Union Territory,Andaman and Nicobar Islands,1,Null,88.3,100,Null,13.8
+30,Union Territory,Chandigarh,21.81,Null,89.1,Null,Null,7.8
+31,Union Territory,Dadra and Nagar Haveli,39.31,Null,77.7,Null,Null,1.5
+32,Union Territory,Daman and Diu,9.86,Null,88.3,Null,Null,0
+33,Union Territory,Delhi,9.91,28.1,86.4,Null,100,10.7
+34,Union Territory,Jammu and Kashmir,10.35,13,76.4,99.889989,100,5.6
+35,Union Territory,Ladakh,10.35,13,76.4,100,100,5.6
+36,Union Territory,Lakshadweep,2.77,Null,95.7,Null,Null,32
+37,Union Territory,Puducherry,9.69,Null,89.5,95.88550984,100,8.7
+,,India,21.92,33.4,74.6,97.44222839,99.99,6.2
+,,Target,10.96,1.9,100,100,100,3
