@@ -3,6 +3,7 @@ import numpy as np
 import plotly.graph_objs as go
 df = pd.read_csv('./data/cleaned_data.csv')
 
+
 parameters = ["poverty",
               "malnutrition",
               "literacy",
@@ -13,7 +14,6 @@ parameters = ["poverty",
 
 for i in range(1, 7):
     print(i, parameters[i-1])
-
 
 fig = go.Figure()
 
