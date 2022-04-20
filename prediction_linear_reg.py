@@ -33,9 +33,15 @@ y_predicted = regressor.predict(x)
 accuracy = round(r2_score(y, y_predicted)*100, 2)
 
 plt.title(f'Linear Regressor: Accuracy= {accuracy} %')
+plt.xticks(np.arange(18, 24))
 plt.xlabel('Year')
 plt.ylabel('Composite score')
 plt.scatter(x, y, color='red', label='actual')
 plt.scatter(x, y_predicted, color='blue', label='predicted')
+
+x_future = [[21], [22], [23]]
+y_future = regressor.predict(x_future)
+
+plt.scatter(x_future, y_future, color='orange', label='future')
 plt.legend()
 plt.show()
