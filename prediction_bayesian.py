@@ -9,7 +9,7 @@ df = pd.read_csv('./data/sustainable_goals.csv')
 
 regressor = BayesianRidge()
 
-state = df.loc[df['state'] == "Bihar"]
+state = df.loc[df['state'] == "Uttar Pradesh"]
 
 years = ['2018', '2019', '2020']
 

@@ -10,7 +10,7 @@ df = pd.read_csv('./data/sustainable_goals.csv')
 regressor = RandomForestRegressor(n_estimators=100, random_state=0)
 
 
-state = df.loc[df['state'] == "Bihar"]
+state = df.loc[df['state'] == "Uttar Pradesh"]
 
 years = ['2018', '2019', '2020']
 
@@ -32,6 +32,8 @@ regressor.fit(x, y)
 y_predicted = regressor.predict(x)
 accuracy = round(r2_score(y, y_predicted)*100, 2)
 
+
+plt.title(f'Random Forest Regressor: Accuracy= {accuracy} %')
 plt.xticks(np.arange(18, 24))
 plt.xlabel('Year')
 plt.ylabel('Composite score')
